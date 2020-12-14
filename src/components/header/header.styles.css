@@ -1,0 +1,46 @@
+
+.header {
+    background-color: #eee;
+    white-space: nowrap;
+    padding: 1.2rem;
+    color: black;
+    justify-content: space-between;
+    display: flex;
+  }
+  
+  .header-title {
+    font-weight: 700;
+    margin-left: 0.25rem;
+    margin-right: 100px;
+    color: black;
+    text-decoration: none;
+  }
+  
+  .header-link {
+    margin-left: 0.8rem;
+    margin-right: 0.8rem;
+    color: black;
+    text-decoration: none;
+  }
+  
+  .header-button {
+    margin-left: 0.25rem;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .header-name {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .divider {
+    margin-left: 0.25rem;
+    color: black;
+  }
+  
+  .link {
+    color: #828282;
+  }
+  
